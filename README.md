@@ -1,6 +1,8 @@
 # Housy - Digital Sustainable Sharing Solution
 
-![Housy](Screenshot_2024-04-20_at_23.35.41.png)
+<p align="center">
+  <img src="housy.png" alt="Housy" width="200" height = "400">
+</p>
 
 ## Background
 
@@ -16,6 +18,10 @@ Housy is a Digital Sustainable Sharing Solution for Housing Companies, designed 
 
 - **Profile Screen:** Users can view and modify their information through the profile screen.
 
+<p align="center">
+  <img src="housy2.png" alt="Housy" width="400" height = "400">
+</p>
+
 ## Prototype Objectives
 
 Our prototype aims to provide intuitive navigation, painless booking processes, improved community engagement, and a pleasant user experience. Additionally, we aim to establish a channel for official communication between residents and administration.
@@ -28,13 +34,11 @@ We started by brainstorming ideas and selecting the concept of "every feature/bo
 
 We used Figma to create a minimalistic design with a blue theme, focusing on ease of access and instant user feedback. Our low-fidelity prototype emphasizes the overall flow of the application.
 
-[View Low-fidelity Prototype](link_to_low_fidelity_prototype)
-
 ### High-fidelity Prototype
 
 In the high-fidelity phase, we aimed to enhance user interactions and visual appeal based on feedback from users and our teacher. We incorporated licensed graphics and sourced images to create a simple and clear appearance for easy navigation.
 
-[View High-fidelity Prototype](link_to_high_fidelity_prototype)
+[View High-fidelity Prototype](https://www.figma.com/file/2Fc96r5YEYxP75fyjQx5FA/Actual-high-fidelity-protoype?type=design&node-id=791%3A3809&mode=design&t=D7dGj3pwVh0q5jmZ-1)
 
 ## Feedback and Iterations
 
